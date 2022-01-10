@@ -1,24 +1,22 @@
-Script started on 2022-01-08 12:27:32+01:00 [TERM="dumb" TTY="/dev/pts/0" COLUMNS="64" LINES="31"]
+Script started on 2022-01-10 09:43:27+01:00 [TERM="dumb" TTY="/dev/pts/0" COLUMNS="64" LINES="31"]
 To run a command as administrator (user "root"), use "sudo <command>".
 See "man sudo_root" for details.
 
-<ommand-line-and-git-assessment-Shadies5$ mkdir folder1
-<ommand-line-and-git-assessment-Shadies5$ mkdir folder1 2
+<ommand-line-and-git-assessment-Shadies5$ mdir   kdir folder1
+<ommand-line-and-git-assessment-Shadies5$ mkdir folder2
 <ommand-line-and-git-assessment-Shadies5$ touch file1.txt
-<ommand-line-and-git-assessment-Shadies5$ touch file1.txt<ommand-line-and-git-assessment-Shadies5$ touch file1.txt 2.txt<ommand-line-and-git-assessment-Shadies5$ touch file2.<ommand-line-and-git-assessment-Shadies5$ touch file2.t<ommand-line-and-git-assessment-Shadies5$ touch file2.tx<ommand-line-and-git-assessment-Shadies5$ touch file2.txt
+<ommand-line-and-git-assessment-Shadies5$ touch file2.txt
 <ommand-line-and-git-assessment-Shadies5$ touch file3.txt
-<ommand-line-and-git-assessment-Shadies5$ mv file1.txt folder<assessment-Shadies5$ mv file1.txt folder1                   DD  DD  
-<ommand-line-and-git-assessment-Shadies5$ <assessment-Shadies5$ mv file1.txt folder1 2<assessment-Shadies5$ mv file1.txt folder2 2.txt folder2<assessment-Shadies5$ mv file2.<assessment-Shadies5$ mv file2.t<assessment-Shadies5$ mv file2.tx<assessment-Shadies5$ mv file2.txt<assessment-Shadies5$ mv file2.txt <assessment-Shadies5$ mv file2.txt f<assessment-Shadies5$ mv file2.txt fo<assessment-Shadies5$ mv file2.txt fol<assessment-Shadies5$ mv file2.txt fold<assessment-Shadies5$ mv file2.txt folde<assessment-Shadies5$ mv file2.txt folder<assessment-Shadies5$ mv file2.txt folder2
+<ommand-line-and-git-assessment-Shadies5$ mv file1.txt folder<assessment-Shadies5$ mv file1.txt folder1                   
+<ommand-line-and-git-assessment-Shadies5$ mv file2.txt folder<assessment-Shadies5$ mv file2.txt folder2                   
 <ommand-line-and-git-assessment-Shadies5$ cd folder1
-<ine-and-git-assessment-Shadies5/folder1$ cd folder1 folder1  folder1 l folder1s folder1<ine-and-git-assessment-Shadies5/folder1$ ls <ine-and-git-assessment-Shadies5/folder1$ ls f<ine-and-git-assessment-Shadies5/folder1$ ls fo<ine-and-git-assessment-Shadies5/folder1$ ls fol<ine-and-git-assessment-Shadies5/folder1$ ls fold<ine-and-git-assessment-Shadies5/folder1$ ls folde<ine-and-git-assessment-Shadies5/folder1$ ls folder<ine-and-git-assessment-Shadies5/folder1$ ls folder1
-ls: cannot access 'folder1': No such file or directory
 <ine-and-git-assessment-Shadies5/folder1$ ls -a
 .  ..  file1.txt
 <ine-and-git-assessment-Shadies5/folder1$ pwd
 /mnt/c/Users/user/documents/unit-01-command-line-and-git-assessment-Shadies5/folder1
 <ine-and-git-assessment-Shadies5/folder1$ cd ..
-<ommand-line-and-git-assessment-Shadies5$ rm -r file3.tc xt
+<ommand-line-and-git-assessment-Shadies5$ rm -r file3.txt
 <ommand-line-and-git-assessment-Shadies5$ exit
 exit
 
-Script done on 2022-01-08 12:49:30+01:00 [COMMAND_EXIT_CODE="0"]
+Script done on 2022-01-10 09:47:21+01:00 [COMMAND_EXIT_CODE="0"]
