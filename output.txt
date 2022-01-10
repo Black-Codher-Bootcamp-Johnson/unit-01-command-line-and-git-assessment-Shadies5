@@ -7,8 +7,8 @@ See "man sudo_root" for details.
 <ommand-line-and-git-assessment-Shadies5$ touch file1.txt
 <ommand-line-and-git-assessment-Shadies5$ touch file2.txt
 <ommand-line-and-git-assessment-Shadies5$ touch file3.txt
-<ommand-line-and-git-assessment-Shadies5$ mv file1.txt folder<assessment-Shadies5$ mv file1.txt folder1
-<ommand-line-and-git-assessment-Shadies5$ mv file2.txt folder<assessment-Shadies5$ mv file2.txt folder2
+<ommand-line-and-git-assessment-Shadies5$ mv file1.txt folder1
+<ommand-line-and-git-assessment-Shadies5$ mv file2.txt folder2
 <ommand-line-and-git-assessment-Shadies5$ cd folder1
 <ine-and-git-assessment-Shadies5/folder1$ ls -a
 .  ..  file1.txt
