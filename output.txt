@@ -1,22 +1,24 @@
-Script started on 2022-01-10 09:43:27+01:00 [TERM="dumb" TTY="/dev/pts/0" COLUMNS="64" LINES="31"]
+Script started on 2022-01-10 12:53:06+01:00 [TERM="dumb" TTY="/dev/pts/0" COLUMNS="64" LINES="31"]
 To run a command as administrator (user "root"), use "sudo <command>".
 See "man sudo_root" for details.
 
-<ommand-line-and-git-assessment-Shadies5$ mdir   kdir folder1
-<ommand-line-and-git-assessment-Shadies5$ mkdir folder2
+<ommand-line-and-git-assessment-Shadies5$ mkdir folder1
+<ommand-line-and-git-assessment-Shadies5$ mkdir folder1
+mkdir: cannot create directory ‘folder1’: File exists
+<ommand-line-and-git-assessment-Shadies5$ e f mkdir folder2
 <ommand-line-and-git-assessment-Shadies5$ touch file1.txt
 <ommand-line-and-git-assessment-Shadies5$ touch file2.txt
 <ommand-line-and-git-assessment-Shadies5$ touch file3.txt
-<ommand-line-and-git-assessment-Shadies5$ mv file1.txt folder<assessment-Shadies5$ mv file1.txt folder1                   
-<ommand-line-and-git-assessment-Shadies5$ mv file2.txt folder<assessment-Shadies5$ mv file2.txt folder2                   
+<ommand-line-and-git-assessment-Shadies5$ cd  mv fil2#e1    e1.txt folder<assessment-Shadies5$ mv file1.txt folder1
+<ommand-line-and-git-assessment-Shadies5$ mv file2  .txt folder<assessment-Shadies5$ mv file2.txt folder2                  
 <ommand-line-and-git-assessment-Shadies5$ cd folder1
 <ine-and-git-assessment-Shadies5/folder1$ ls -a
 .  ..  file1.txt
 <ine-and-git-assessment-Shadies5/folder1$ pwd
 /mnt/c/Users/user/documents/unit-01-command-line-and-git-assessment-Shadies5/folder1
 <ine-and-git-assessment-Shadies5/folder1$ cd ..
-<ommand-line-and-git-assessment-Shadies5$ rm -r file3.txt
+<ommand-line-and-git-assessment-Shadies5$ rm file3.txt
 <ommand-line-and-git-assessment-Shadies5$ exit
 exit
 
-Script done on 2022-01-10 09:47:21+01:00 [COMMAND_EXIT_CODE="0"]
+Script done on 2022-01-10 12:57:12+01:00 [COMMAND_EXIT_CODE="0"]
